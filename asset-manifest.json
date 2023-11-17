@@ -1,15 +1,23 @@
 {
   "files": {
-    "main.css": "/lance-belen/static/css/main.5f2f21e1.css",
-    "main.js": "/lance-belen/static/js/main.02344c59.js",
+    "main.css": "/lance-belen/static/css/main.18be9b46.css",
+    "main.js": "/lance-belen/static/js/main.88b91f29.js",
     "static/js/787.9067f7ce.chunk.js": "/lance-belen/static/js/787.9067f7ce.chunk.js",
+    "static/media/sample-3.jpg": "/lance-belen/static/media/sample-3.5960fc7b7b4b9cfec397.jpg",
+    "static/media/sample-4.jpg": "/lance-belen/static/media/sample-4.439aaa3f7f5f95b2b91e.jpg",
+    "static/media/Resume.png": "/lance-belen/static/media/Resume.7c2e94ea63d3adc8cd77.png",
+    "static/media/sample-1.jpg": "/lance-belen/static/media/sample-1.c2e1d8859a7f1ddc7057.jpg",
+    "static/media/sample-2.jpg": "/lance-belen/static/media/sample-2.04548769c4b6dcb67873.jpg",
+    "static/media/profile-header.jpg": "/lance-belen/static/media/profile-header.e5fb2e1efc0aa9696848.jpg",
+    "static/media/profile-photo.jpg": "/lance-belen/static/media/profile-photo.a25c5e495e28ad90fbf0.jpg",
+    "static/media/instagram.png": "/lance-belen/static/media/instagram.edb90ecc706a7a25542b.png",
     "index.html": "/lance-belen/index.html",
-    "main.5f2f21e1.css.map": "/lance-belen/static/css/main.5f2f21e1.css.map",
-    "main.02344c59.js.map": "/lance-belen/static/js/main.02344c59.js.map",
+    "main.18be9b46.css.map": "/lance-belen/static/css/main.18be9b46.css.map",
+    "main.88b91f29.js.map": "/lance-belen/static/js/main.88b91f29.js.map",
     "787.9067f7ce.chunk.js.map": "/lance-belen/static/js/787.9067f7ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f2f21e1.css",
-    "static/js/main.02344c59.js"
+    "static/css/main.18be9b46.css",
+    "static/js/main.88b91f29.js"
   ]
 }
