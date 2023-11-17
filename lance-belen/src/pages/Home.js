@@ -1,5 +1,5 @@
 import '../App.css';
-import me from '../images/profile-photo.jpg';
+import me from '../images/profile-photo3.jpg';
 
 function Home() {
   return (
