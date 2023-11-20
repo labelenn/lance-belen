@@ -16,10 +16,10 @@ function App() {
       <NavBar />
       <Routes>
         <Route exact path = "/lance-belen" element = {<Home />}></Route>
-        <Route path = "/projects" element = {<Projects />}></Route>
-        <Route path = "/experience" element = {<Experience />}></Route>
-        <Route path = "/resume" element = {<Resume />}></Route>
-        <Route path = "/photography" element = {<Photography />}></Route>
+        <Route path = "/lance-belen/projects" element = {<Projects />}></Route>
+        <Route path = "/lance-belen/experience" element = {<Experience />}></Route>
+        <Route path = "/lance-belen/resume" element = {<Resume />}></Route>
+        <Route path = "/lance-belen/photography" element = {<Photography />}></Route>
       </Routes>
     </div>
   );
