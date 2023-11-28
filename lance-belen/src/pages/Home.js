@@ -44,8 +44,8 @@ function Home() {
         <div className = "other-experiences">  
           <h4 id = "about-me-text">
           Although not listed on my resume, I have had other work experiences before in different areas of the industry.
-          I used to work at a retail store, a local fish and chips shop, a food delivery service.
-          I wanted to have as much exposure as I can earlier on as I felt that practical experiences contribute heavily to one's growth.
+          I used to work at a retail store, a local Fish and chips shop, and a food delivery service.
+          I wanted to have as much exposure as I can earlier on as I felt that practical experiences contribute heavily to one's individual and professional growth.
           </h4>
           <img id = "about-me-logo" src = {team} alt = "team"></img>
         </div>
