@@ -73,7 +73,7 @@
   padding: 50px;
 }
 
-.home-intro{
+.home-intro {
   padding-top: 100px;
   padding-bottom: 50px;
 }
@@ -101,8 +101,39 @@
   transform: scale(1.5);
   opacity: 0.5;
 }
+
 /* PROJECTS */
-/* EXPERIENCE */
+/* ABOUT ME */
+.about-me {
+  padding: 50px;
+}
+
+#about-me-logo{
+  width: 100px;
+}
+
+#about-me-text {
+  width: 1000px;
+}
+
+.background {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+}
+
+.other-experiences {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+}
+
+.hobbies-and-interests {
+  display: flex;
+  justify-content: space-evenly;
+  padding-bottom: 30px;
+}
+
 /* RESUME */
 .resume img {
   width: 55%;
