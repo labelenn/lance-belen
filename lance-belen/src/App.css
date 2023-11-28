@@ -64,6 +64,7 @@
   display: flex;
   justify-content: safe center;
   margin-top: 50px;
+  padding-bottom: 50px;
 }
 
 .home img {
@@ -77,6 +78,29 @@
   padding-bottom: 50px;
 }
 
+.skills{
+  margin-top: 100px;
+  margin-left: 250px;
+  margin-right: 250px;
+  margin-bottom: 50px;
+}
+
+.skills h1{
+  padding-bottom: 50px;
+}
+
+#skill-logo {
+  min-width: 50px;
+  width: 150px;
+  max-width: 150px;
+  margin: 20px;
+}
+
+#skill-logo:hover {
+  transition-duration: 0.5s;
+  transform: scale(1.5);
+  opacity: 0.5;
+}
 /* PROJECTS */
 /* EXPERIENCE */
 /* RESUME */
