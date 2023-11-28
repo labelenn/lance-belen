@@ -1,12 +1,13 @@
 import '../App.css';
 import logo from '../images/logo.png';
+import { NavLink } from 'react-router-dom';
 
 function Header() {
   return (
     <div className = "header">
-      <a href = "/lance-belen"><h1>Lance</h1></a>
-      <a href = "/lance-belen"><img id = "header-logo" src = {logo} alt = "logo"></img></a>
-      <a href = "/lance-belen"><h1>Belen</h1></a>
+      <NavLink to = "/lance-belen/about-me"><h1>Lance</h1></NavLink>
+      <NavLink to = "/lance-belen/about-me"><img id = "header-logo" src = {logo} alt = "logo"></img></NavLink>
+      <NavLink to = "/lance-belen/about-me"><h1>Belen</h1></NavLink>
     </div>
   );
 }
