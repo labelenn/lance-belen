@@ -19,7 +19,7 @@ import hobbies from '../images/hobbies.png';
 
 function AboutMe() {
     return (
-        <>
+      <>
         <div className = "about-me">
             <div className = "background">
               <img id = "about-me-logo" src = {user} alt = "user"></img>
@@ -43,7 +43,7 @@ function AboutMe() {
               <img id = "about-me-logo" src = {hobbies} alt = "hobbies"></img>
               <h4 id = "about-me-text">
               I love playing basketball and going to the gym. During my spare time, I like to watch movies, series, or documentaries, or play video games.
-              Photography is also a hobby that I developed a few years ago. At a young age, I also developed my love for music, having been able to play the guitar since the age of 9.
+              Photography is also a hobby that I developed a few years ago. Much earlier on, I also developed my love for music, having been able to play the guitar since the age of 9.
               My particular topics of interest involves travelling, business, investments, technology, and physics.
               </h4>
             </div>

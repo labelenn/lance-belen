@@ -47,6 +47,7 @@
   list-style: none;
   margin-left: 20px;
   margin-right: 20px;
+  transition: all 500ms;
 }
 
 .navbar li a:hover {
@@ -103,6 +104,33 @@
 }
 
 /* PROJECTS */
+.projects h1 {
+  padding-top: 50px;
+}
+
+.project-info {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+}
+
+.project-video {
+  min-height: 150px;
+  height: 300px;
+  max-height: 300px;
+  opacity: 1;
+}
+
+.project-details{
+  min-width: 100px;
+  width: 500px;
+  max-width: 500px;
+}
+
+.project-details h3 {
+  text-decoration: underline;
+}
+
 /* ABOUT ME */
 .about-me {
   padding: 50px;
@@ -140,7 +168,6 @@
 }
 
 /* PHOTOGRAPHY */
-
 .photography-header a {
   text-decoration: none;
 }
