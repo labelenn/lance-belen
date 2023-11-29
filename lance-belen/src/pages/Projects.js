@@ -9,17 +9,17 @@ function Projects() {
 
       <h1>My Projects</h1>
       <div className = "project-info">
-        <video className = "project-video" autoPlay muted loop >
-          <source src = {FWD} type = "video/mp4"></source>
-        </video>
         <div className = "project-details">
           <h3>Cinema Website Application</h3>
           <h4>A full stack web application that I developed for a university project.</h4>
           <h4>Technology Stack used: React, HTML, CSS, NodeJS, Express, Sequelize, MySQL, GraphQL</h4>
         </div>
+        <video className = "project-video" autoPlay muted loop >
+          <source src = {FWD} type = "video/mp4"></source>
+        </video>
       </div>
 
-      <hr style = {{"width": "1200px"}}></hr>
+      <hr></hr>
 
       <div className = "project-info">
         <video className = "project-video" autoPlay muted loop height = "300px">
@@ -36,12 +36,9 @@ function Projects() {
         </div>
       </div>
 
-      <hr style = {{"width": "1200px"}}></hr>
+      <hr></hr>
 
-      <div className = "project-info">
-        <video className = "project-video" autoPlay muted loop height = "300px">
-          <source src = {PS1} type = "video/mp4"></source>
-        </video>
+      <div className = "project-info">  
         <div className = "project-details">
           <h3>Closing The Gap Website</h3>
           <h4>
@@ -51,6 +48,9 @@ function Projects() {
           </h4>
           <h4>Technology Stack used: Java, HTML, CSS, SQLite</h4>
         </div>
+        <video className = "project-video" autoPlay muted loop height = "300px">
+          <source src = {PS1} type = "video/mp4"></source>
+        </video>
       </div>
     </div>
   );

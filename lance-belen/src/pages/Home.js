@@ -26,7 +26,8 @@ function Home() {
       <div className = "home-intro">
         <h4>Hi! I'm Lance.</h4>
         <h4>Welcome to my personal website.</h4>
-        <h4>Feel free to explore the different tabs above to get to know more about myself.</h4>
+        <h4>I am an aspiring Software Engineer currently studying at RMIT University Australia.</h4>
+        <h4>Feel free to explore the tabs above to get to know me more.</h4>
       </div>
     </div>
   </>

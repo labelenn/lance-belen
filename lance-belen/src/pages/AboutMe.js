@@ -31,12 +31,12 @@ function AboutMe() {
             </div>
     
             <div className = "other-experiences">  
+              <img id = "about-me-logo" src = {team} alt = "team"></img>
               <h4 id = "about-me-text">
               Although not listed on my resume, I have had other work experiences before in different areas of the industry.
               I used to work at a retail store, a local Fish and chips shop, and a food delivery service.
               I wanted to have as much exposure as I can earlier on as I felt that practical experiences contribute heavily to one's individual and professional growth.
               </h4>
-              <img id = "about-me-logo" src = {team} alt = "team"></img>
             </div>
     
             <div className = "hobbies-and-interests">
@@ -49,7 +49,7 @@ function AboutMe() {
             </div>
         </div>
     
-        <hr style = {{"width":"80%"}}></hr>
+        <hr></hr>
     
         <div className = "skills">
           <h1>My skills</h1>
