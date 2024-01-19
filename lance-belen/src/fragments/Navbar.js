@@ -16,10 +16,10 @@ function Navbar() {
     <div className = "navbar">
       <div onClick = {displayLinks} className = "burger-nav"></div>
       <ul>
-        <li><NavLink to = "/lance-belen/projects" style = {{textDecoration: "none", fontSize: 18}}>Projects</NavLink></li>
-        <li><NavLink to = "/lance-belen/about-me" style = {{textDecoration: "none", fontSize: 18}}>About Me</NavLink></li>
-        <li><NavLink to = "/lance-belen/resume" style = {{textDecoration: "none", fontSize: 18}}>Resume</NavLink></li>
-        <li><NavLink to = "/lance-belen/photography" style = {{textDecoration: "none", fontSize: 18}}>Photography</NavLink></li>
+        <li><NavLink to = "/lance-belen/projects" style = {{fontSize: 18}}>Projects</NavLink></li>
+        <li><NavLink to = "/lance-belen/about-me" style = {{fontSize: 18}}>About Me</NavLink></li>
+        <li><NavLink to = "/lance-belen/resume" style = {{fontSize: 18}}>Resume</NavLink></li>
+        <li><NavLink to = "/lance-belen/photography" style = {{fontSize: 18}}>Photography</NavLink></li>
       </ul>
     </div>
   );

@@ -8,6 +8,7 @@ import Projects from './pages/Projects';
 import AboutMe from './pages/AboutMe';
 import Resume from './pages/Resume';
 import Photography from './pages/Photography';
+import Footer from './fragments/Footer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path = "/lance-belen/resume" element = {<Resume />}></Route>
         <Route path = "/lance-belen/photography" element = {<Photography />}></Route>
       </Routes>
+      <Footer />
     </div>
   );
 }

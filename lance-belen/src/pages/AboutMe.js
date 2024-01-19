@@ -1,5 +1,4 @@
 import '../App.css';
-import me from '../images/profile-photo1.jpg';
 import java from '../images/skills/java.png';
 import python from '../images/skills/python.png';
 import cpp from '../images/skills/c++.png';
@@ -24,8 +23,8 @@ function AboutMe() {
             <div className = "background">
               <img id = "about-me-logo" src = {user} alt = "user"></img>
               <h4 id = "about-me-text">
-              At such a young age, I have been blessed with the opportunity to live and study in three countries already.
-              I was born and raised in the Philippines, lived and studied for two years in Qatar, and now, here in Australia.
+              At a young age, I have been blessed with the opportunity to live and study in three countries already.
+              I was born and raised in the Philippines, lived and studied for two years in Qatar, and now, here in Australia.<br></br>
               I am currently studying a Bachelor of Software Engineering degree at RMIT Australia which I intend to complete by the end of 2025.
               </h4>
             </div>
