@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lance-belen/static/css/main.2874d656.css",
-    "main.js": "/lance-belen/static/js/main.e36da2cb.js",
+    "main.css": "/lance-belen/static/css/main.5ef7cc4f.css",
+    "main.js": "/lance-belen/static/js/main.03e0094c.js",
     "static/js/787.9067f7ce.chunk.js": "/lance-belen/static/js/787.9067f7ce.chunk.js",
     "static/media/FWD_Project_Demo.mp4": "/lance-belen/static/media/FWD_Project_Demo.0e0e27c1bdf434c5eb6d.mp4",
     "static/media/PS1_Project_Demo.mp4": "/lance-belen/static/media/PS1_Project_Demo.f22206d4e59c87dd8e0b.mp4",
@@ -28,12 +28,12 @@
     "static/media/html-5.png": "/lance-belen/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
     "static/media/css-3.png": "/lance-belen/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "index.html": "/lance-belen/index.html",
-    "main.2874d656.css.map": "/lance-belen/static/css/main.2874d656.css.map",
-    "main.e36da2cb.js.map": "/lance-belen/static/js/main.e36da2cb.js.map",
+    "main.5ef7cc4f.css.map": "/lance-belen/static/css/main.5ef7cc4f.css.map",
+    "main.03e0094c.js.map": "/lance-belen/static/js/main.03e0094c.js.map",
     "787.9067f7ce.chunk.js.map": "/lance-belen/static/js/787.9067f7ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2874d656.css",
-    "static/js/main.e36da2cb.js"
+    "static/css/main.5ef7cc4f.css",
+    "static/js/main.03e0094c.js"
   ]
 }
