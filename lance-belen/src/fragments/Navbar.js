@@ -3,26 +3,6 @@ import { NavLink } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 
 function Navbar() {
-  const [windowWidth, setWindowWidth] = useState(window.innerWidth);
-
-  useEffect(() => {
-    const handleResize = () => {
-      var nav = document.querySelector(".navbar ul");
-      setWindowWidth(window.innerWidth);
-      if (windowWidth <= 600) {
-        nav.style.display = "block";
-      }
-      else {
-        nav.style.display = "flex";
-      }   
-    }
-
-    window.addEventListener('resize', handleResize);
-    return () => {
-      window.removeEventListener('resize', handleResize);
-    }
-  }, []);
-
   function displayLinks() {
     var nav = document.querySelector(".navbar ul");
     if (nav.style.display === "block") {
