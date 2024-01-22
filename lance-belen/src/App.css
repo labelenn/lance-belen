@@ -19,7 +19,7 @@
 
 /* HEADER */
 .header {
-  padding: 20px;
+  background-color:rgb(200, 200, 200, 0.5);
   display: flex;
   justify-content: safe center;
 }
@@ -37,10 +37,6 @@
 .header a {
   text-decoration: none;
   color: black;
-}
-
-.sub-header {
-  padding-bottom: 10px;
 }
 
 .sub-header h2{
@@ -85,6 +81,12 @@
 }
 
 /* NAVBAR */
+.navbar {
+  background-color:rgba(200, 200, 200);
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
 .navbar ul {
   display: flex;
   justify-content: safe center;  
@@ -105,7 +107,7 @@ a {
 }
 
 .active {
-  color: rgb(169, 169, 169);
+  color: rgb(250, 250, 250);
   text-decoration: underline;
 }
 
@@ -158,6 +160,8 @@ a {
 .home-intro {
   padding-top: 100px;
   padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 @media screen and (max-width: 600px) {
@@ -177,6 +181,11 @@ a {
 }
 
 /* PROJECTS */
+#project-link {
+  text-decoration: underline;
+  color: rgb(80, 80, 80);
+}
+
 .projects h1 {
   padding-top: 50px;
 }
