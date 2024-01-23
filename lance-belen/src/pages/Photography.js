@@ -10,6 +10,7 @@ import ig from '../images/instagram.png';
 function Photography() {
   return (
     <div className = "photography">
+      <h1>Photography</h1>
       <div className = "photography-header">
         <h3 style = {{paddingTop: 50}}>Check out my photography account</h3>
         <h5>Click the instagram logo or username to redirect to my account</h5>

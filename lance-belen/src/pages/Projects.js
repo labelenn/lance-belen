@@ -38,6 +38,8 @@ function Projects() {
         </video>
       </div>
 
+      <hr></hr>
+
       <div className = "project-info">
         <div className = "project-details">
           <h3>Data Analysis and Modeling</h3>

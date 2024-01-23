@@ -20,6 +20,7 @@ function AboutMe() {
     return (
       <>
         <div className = "about-me">
+            <h1>About me</h1>
             <div className = "background">
               <img id = "about-me-logo" src = {user} alt = "user"></img>
               <h4 id = "about-me-text">
