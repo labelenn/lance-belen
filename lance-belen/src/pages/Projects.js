@@ -48,8 +48,10 @@ function Projects() {
               providing a detailed analysis of the data, and a proper application of model selection strategies.
           </h4>
           <h4>For this end-to-end project, my team and I went through data preparation, data exploration, data visualisation, and statistical modeling.</h4>
-          <h4>Technology Stack used: Python, NumPy, Pandas, SQL, Excel, Jupyter Notebook</h4>
-          <h4><a id = "project-link" href = "https://github.com/labelenn/Salary-Prediction">Check it out</a></h4>
+          <h4>Technology Stack used: Tableau, Python, NumPy, Pandas, SQL, Excel, Jupyter Notebook</h4>
+          <h4>Check it out: <a id = "project-link" href = "https://github.com/labelenn/Salary-Prediction">Github Repo</a> / 
+              <a id = "project-link" href = "https://public.tableau.com/app/profile/lance.belen/viz/DataScienceSalary_17059935206390/Dashboard1?publish=yes">Tableau Public</a>
+          </h4>
         </div>
         <video className = "project-video" autoPlay muted loop height = "300px">
           <source src = {SalaryPredictions} type = "video/mp4"></source>
