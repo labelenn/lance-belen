@@ -19,11 +19,11 @@
 
 /* HEADER */
 .header {
-  background-color:rgb(200, 200, 200);
+  /* background-color:rgb(200, 200, 200); */
   display: flex;
   justify-content: safe center;
   padding: 20px 0px 20px 0px;
-  margin: 20px 30% 0px 30%;
+  /* margin: 20px 30% 0px 30%; */
   border-radius: 5px;
 }
 
@@ -79,6 +79,7 @@
 
 /* NAVBAR */
 .navbar {
+  background-color:rgb(200, 200, 200);
   border-radius: 5px;
   padding-top: 5px;
   padding-bottom: 5px;
