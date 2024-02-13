@@ -11,7 +11,7 @@ function Projects() {
       <h1>My Projects</h1>
       <div className = "project-info">
         <div className = "project-details">
-          <a href = "https://labelenn.github.io/Cinema-Website-Project/"><h3>Cinema Website Application</h3></a>
+          <h3>Cinema Website Application</h3>
           <h4>A full stack web application that I developed for a university project.</h4>
           <h4>Technology Stack used: React, HTML, CSS, NodeJS, Express, Sequelize, MySQL, GraphQL</h4>
           <h4><a id = "project-link" href = "https://labelenn.github.io/Cinema-Website-Project/">Check it out</a></h4>
@@ -42,7 +42,7 @@ function Projects() {
 
       <div className = "project-info">
         <div className = "project-details">
-          <h3>Data Analysis and Modeling</h3>
+          <h3>Data Analysis and Modeling</h3> 
           <h4>A data analysis and modeling project for predicting salaries of different Data Science jobs.</h4>
           <h4>This project focuses on applying statistical modeling techniques by presenting our chosen problem, 
               providing a detailed analysis of the data, and a proper application of model selection strategies.
