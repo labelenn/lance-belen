@@ -26,7 +26,7 @@ function AboutMe() {
               <h4 id = "about-me-text">
               At a young age, I have been blessed with the opportunity to live and study in three countries already.
               I was born and raised in the Philippines, lived and studied for two years in Qatar, and now, here in Australia.<br></br>
-              I am currently studying a Bachelor of Software Engineering degree at RMIT Australia which I intend to complete by the end of 2025.
+              I am currently pursuing a Bachelor of Computer Science degree at RMIT Australia which I intend to complete by the end of 2025.
               </h4>
             </div>
     
