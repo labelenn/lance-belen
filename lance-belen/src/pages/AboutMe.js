@@ -12,6 +12,7 @@ import graphQL from '../images/skills/graphQL.png';
 import git from '../images/skills/git.png';
 import lightroom from '../images/skills/lightroom.png';
 import photoshop from '../images/skills/photoshop.png';
+import illustrator from '../images/skills/illustrator.png';
 import user from '../images/user.png';
 import team from '../images/team.png';
 import hobbies from '../images/hobbies.png';
@@ -66,6 +67,7 @@ function AboutMe() {
           <img id = "skill-logo" src = {git} alt = "git"></img>
           <img id = "skill-logo" src = {lightroom} alt = "lightroom"></img>
           <img id = "skill-logo" src = {photoshop} alt = "photoshop"></img>
+          <img id = "skill-logo" src = {illustrator} alt = "illustrator"></img>
         </div>
       </>
       );
