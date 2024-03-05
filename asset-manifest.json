@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lance-belen/static/css/main.2994b9d6.css",
-    "main.js": "/lance-belen/static/js/main.c295748c.js",
+    "main.js": "/lance-belen/static/js/main.158b6a7a.js",
     "static/js/787.9067f7ce.chunk.js": "/lance-belen/static/js/787.9067f7ce.chunk.js",
     "static/media/FWD_Project_Demo.mp4": "/lance-belen/static/media/FWD_Project_Demo.0e0e27c1bdf434c5eb6d.mp4",
     "static/media/Salary-Predictions.mp4": "/lance-belen/static/media/Salary-Predictions.a9aaca8c5ac6edf2534b.mp4",
@@ -14,10 +14,10 @@
     "static/media/sample-1.jpg": "/lance-belen/static/media/sample-1.c2e1d8859a7f1ddc7057.jpg",
     "static/media/sample-2.jpg": "/lance-belen/static/media/sample-2.04548769c4b6dcb67873.jpg",
     "static/media/graphQL.png": "/lance-belen/static/media/graphQL.3591d74d4241422c4beb.png",
+    "static/media/personal-logo-black.png": "/lance-belen/static/media/personal-logo-black.3ace1d30d7fcaa7d0ca3.png",
     "static/media/python.png": "/lance-belen/static/media/python.6a5cbc319ab3ddf8ef92.png",
     "static/media/react.png": "/lance-belen/static/media/react.17e5cb984343d1346ebd.png",
     "static/media/profile-header.jpg": "/lance-belen/static/media/profile-header.e5fb2e1efc0aa9696848.jpg",
-    "static/media/logo.png": "/lance-belen/static/media/logo.e334ab03efb3211db4ae.png",
     "static/media/nodejs.png": "/lance-belen/static/media/nodejs.007e99f68b718e476aba.png",
     "static/media/java.png": "/lance-belen/static/media/java.ddf8676bd569fe01ab44.png",
     "static/media/c++.png": "/lance-belen/static/media/c++.24a8f93854ab092f17a7.png",
@@ -30,14 +30,15 @@
     "static/media/photoshop.png": "/lance-belen/static/media/photoshop.339f174c692e921a204a.png",
     "static/media/html-5.png": "/lance-belen/static/media/html-5.cfb2ba4a6b1c3de295bc.png",
     "static/media/linkedin.png": "/lance-belen/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/illustrator.png": "/lance-belen/static/media/illustrator.c8306d9279929e8b8cfe.png",
     "static/media/css-3.png": "/lance-belen/static/media/css-3.4a6549b8c2b4cda8bb88.png",
     "index.html": "/lance-belen/index.html",
     "main.2994b9d6.css.map": "/lance-belen/static/css/main.2994b9d6.css.map",
-    "main.c295748c.js.map": "/lance-belen/static/js/main.c295748c.js.map",
+    "main.158b6a7a.js.map": "/lance-belen/static/js/main.158b6a7a.js.map",
     "787.9067f7ce.chunk.js.map": "/lance-belen/static/js/787.9067f7ce.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2994b9d6.css",
-    "static/js/main.c295748c.js"
+    "static/js/main.158b6a7a.js"
   ]
 }
